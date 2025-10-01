@@ -1,2 +1,2 @@
 # Press_Switch_LED
-press button to switch LED color.
+Switch the LED color by pressing the button every time.
